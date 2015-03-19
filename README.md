@@ -123,7 +123,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Lawrence Lin Murata http://lawrencemurata.com/
 - Liam Horne http://lihorne.com
 - Li Xuanji http://xuanji.li
-- Luka Marr http://lukamarr.github.io
+- Luka Marr http://lukamarr.me
 - Mahir Kothary http://mahirk.me
 - Maria Chavez http://mariachavez.co
 - Markan Patel http://markanpatel.me
